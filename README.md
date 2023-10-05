@@ -21,7 +21,7 @@
 - Development Intern, Summer '22
 
 ### Rutgers, NJ
-- Teaching Assistant, 2017-2021
+- Teaching Assistant, 2017-2023
 
 ### HyperVerge Labs, India
 - Mobile Application Developer, Summer '14
