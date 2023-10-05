@@ -17,7 +17,7 @@
 ## Professional Experience
 
 ### Illumina, CA
-- Data Scientist, 2022-present
+- Data Scientist, 2022-2023
 - Development Intern, Summer '22
 
 ### Rutgers, NJ
